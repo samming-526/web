@@ -1,1 +1,2 @@
-print "abc"
+print (888)
+print (666)
